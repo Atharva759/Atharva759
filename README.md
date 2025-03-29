@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Atharva Khadake</h1>
 <h3 align="center">A student learning full stack development</h3>
 
-- 🔭 I’m currently working on [Password manager](passwordmanager-psi.vercel.app)
+- 🔭 I’m currently working on [Password manager](https://github.com/Atharva759/Password-Manager)
 
 - 🌱 I’m currently learning **Front End Development**
 
