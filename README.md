@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Atharva Khadake</h1>
 <h3 align="center">A student learning full stack development</h3>
 
-- 🔭 I’m currently working on [Crypto Tracker App](https://github.com/Atharva759/Crypto-Tracker)
+- 🔭 I’m currently working on [Password Manager](https://github.com/Atharva759/Password-Manager)
 
-- 🌱 I’m currently learning **Front End Development**
+- 🌱 I’m currently learning **Back End Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Atharva759/](https://github.com/Atharva759/)
 
