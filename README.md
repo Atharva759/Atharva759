@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Atharva Khadake</h1>
 <h3 align="center">A student learning full stack development</h3>
 
-- 🔭 I’m currently working on [AI-Quiz-App](https://github.com/Atharva759/Quiz-Project)
+- 🔭 I’m currently working on [AI-Powered Fitness App](https://github.com/Atharva759/FitnessApp)
 
 - 🌱 I’m currently learning **Java Full Stack Development**
 
