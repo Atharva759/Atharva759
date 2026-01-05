@@ -10,7 +10,7 @@
 
 - 👯 I'm looking to collaborate on **open source projects**
 
-- 💬 Ask me about **Backend Development , Frontend Development **
+- 💬 Ask me about **Backend Development , Frontend Development**
 
 - 📫 How to reach me **atharvakhadake759@gmail.com**
 
