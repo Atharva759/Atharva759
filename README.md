@@ -14,9 +14,9 @@
 
 - 📫 How to reach me **atharvakhadake759@gmail.com**
 
-- 👨‍💻 All of my projects are available at **[https://atharvakportfolio.vercel.app](https://atharvakportfolio.vercel.app)**
+- 👨‍💻 All of my projects are available at **[https://atharvakportfolio.vercel.app](PortFolio-Website)**
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1DiCz-3v2IJ0GKLU9m6qU1vVia0FE1zMC/view?usp=sharing](Atharva CV)**
+- 📄 Know about my experiences **[https://drive.google.com/file/d/1DiCz-3v2IJ0GKLU9m6qU1vVia0FE1zMC/view?usp=sharing](Atharva_CV)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
