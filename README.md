@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at **[https://atharvakportfolio.vercel.app](https://atharvakportfolio.vercel.app)**
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1Ez6v4JYsx_wLD-MZVt0EbHTtqX599gBg/view](https://drive.google.com/file/d/1Ez6v4JYsx_wLD-MZVt0EbHTtqX599gBg/view)**
+- 📄 Know about my experiences **[https://drive.google.com/file/d/1DiCz-3v2IJ0GKLU9m6qU1vVia0FE1zMC/view?usp=sharing](Atharva CV)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
