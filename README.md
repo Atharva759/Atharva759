@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Atharva759&label=Profile views&color=0e75b6&style=flat" alt="Atharva759" /> </p>
 
-- 🔭 I'm currently working on **A Fitness Backend App**
+- 🔭 I'm currently working on **Agentic AI Code Analyzer**
 
-- 🌱 I'm currently learning **TypeScript & SpringBoot**
+- 🌱 I'm currently learning **System Design & Agentic AI,LLMs**
 
 - 👯 I'm looking to collaborate on **open source projects**
 
-- 💬 Ask me about **Backend Development , Frontend Development**
+- 💬 Ask me about **Software Development , Backend Development , Frontend Development**
 
 - 📫 How to reach me **atharvakhadake759@gmail.com**
 
