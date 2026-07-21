@@ -6,7 +6,6 @@
   </a>
 </p>
 
-<img src="none" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - 🚀 Full-Stack Developer passionate about building scalable backend systems and AI-powered applications. I enjoy working with Java, Spring Boot, React, Next.js, PostgreSQL, Redis, Docker, and Microservices while continuously improving my problem-solving and system design skills.
